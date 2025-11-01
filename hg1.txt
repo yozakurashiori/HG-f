@@ -8416,7 +8416,7 @@
 ||pcauto.com.cn^
 ||pcvzpj.xyz^
 ||pd.ads.cn.miaozhen.com^
-||pddpic.com^
+#||pddpic.com^
 ||pds-demo.oss-cn-hangzhou.aliyuncs.com^
 ||pe.3.cn^
 ||pe06.cn^

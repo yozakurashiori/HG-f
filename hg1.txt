@@ -751,7 +751,7 @@
 ||funimg.pddpic.com^
 ||funimg.pddpic.com.a.bdydns.com^
 ||opencdnpddpic.jomodns.com^
-||*.pddpic.com^
+#||*.pddpic.com^
 ||maplocatesdksnapshot.dreport.meituan.net^
 ||p5.d.meituan.net^
 ||hk.pool.ntp.org^

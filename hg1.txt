@@ -1182,7 +1182,7 @@
 ||phoniex.toutiao.com^
 ||rtapplog.snssdk.com^
 ||sf1-amtos-cdn.bytesmanager.com^
-||doh.pub^
+#||doh.pub^
 ||sdk.spstmind.com^
 ||cnlogs.umeng.com^
 ||welk.co^
@@ -1214,7 +1214,7 @@
 ||kicp.kuaishang.cn^
 ||static-online.kuaishang.cn^
 ||q95666.com^
-||myip.ipip.net^
+#||myip.ipip.net^
 ||api.telegram.org^
 ||monitor.shhzcj.com^
 ||mhdr.ynjkeji.com^
@@ -6347,7 +6347,7 @@
 ||cdn.image-houzhuaxyz.com^
 ||cdn.image-wojiongxyz.com^
 ||cdn.jice.io^
-||cdn.jsdelivr.net^
+#||cdn.jsdelivr.net^
 ||cdn.livechat-files.com^
 ||cdn.mobrtb.com^
 ||cdn.mockuai.com^

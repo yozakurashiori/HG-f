@@ -653,7 +653,7 @@
 ||daylk.fckfyu.com^
 ||alldomain.fckfyu.com.a.bdydns.com^
 ||fiynk.aoshl.com^
-||opencdnkav6.jomodns.com^
+#||opencdnkav6.jomodns.com^
 ||alldomain.aoshl.com.a.bdydns.com^
 ||vypfw.gyxbw.cn^
 ||cctve.wjzafhc.com^
@@ -4534,7 +4534,7 @@
 ||ygwsxkky.com^
 ||backend.gravity-engine.com^
 ||dns.wechat.com^
-||mall.bilibili.com^
+#||mall.bilibili.com^
 ||kfxq33596.cc^
 ||sentryapi.89609335.com^
 ||999ww777yy.com^

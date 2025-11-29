@@ -1,3 +1,4 @@
+! Title: 海哥规则（个人修改）
 <<<<<<< Updated upstream
 ! Version:    # 最后同步时间: 2025-11-22 09:24:36 (北京时间)
 ! Total count: 10192 (仅统计AdGuard规则)
@@ -19,7 +20,6 @@
 
 <<<<<<< Updated upstream
 =======
-! Title: 海哥规则（个人修改）
 
 ||www.hancelawyers.com^
 ||b8a1a36974ed9fcd7a53cf2f89b925ee.dlied1.cdntips.net^

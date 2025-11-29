@@ -19,7 +19,7 @@
 
 <<<<<<< Updated upstream
 =======
-
+! Title: 海哥规则（个人修改）
 
 ||www.hancelawyers.com^
 ||b8a1a36974ed9fcd7a53cf2f89b925ee.dlied1.cdntips.net^
@@ -852,7 +852,7 @@
 ||funimg.pddpic.com^
 ||funimg.pddpic.com.a.bdydns.com^
 ||opencdnpddpic.jomodns.com^
-||*.pddpic.com^
+#||*.pddpic.com^
 ||maplocatesdksnapshot.dreport.meituan.net^
 ||p5.d.meituan.net^
 ||hk.pool.ntp.org^
@@ -1283,7 +1283,7 @@
 ||phoniex.toutiao.com^
 ||rtapplog.snssdk.com^
 ||sf1-amtos-cdn.bytesmanager.com^
-||doh.pub^
+#||doh.pub^
 ||sdk.spstmind.com^
 ||cnlogs.umeng.com^
 ||welk.co^
@@ -3244,7 +3244,7 @@
 ||77rtetsl1uwn4i.shyaoxu.com^
 ||203.107.62.40^
 ||xjkf.ahlowp.com^
-||58.218.215.100^
+#||58.218.215.100^
 ||103.254.110.145^
 ||103.254.110.146^
 ||38.182.228.182^
@@ -4629,7 +4629,7 @@
 ||ygwsxkky.com^
 ||backend.gravity-engine.com^
 ||dns.wechat.com^
-||mall.bilibili.com^
+#||mall.bilibili.com^
 ||kfxq33596.cc^
 ||sentryapi.89609335.com^
 ||999ww777yy.com^
@@ -5129,7 +5129,7 @@
 ||114.110.96.26^
 ||114.110.96.6^
 ||114.110.97.30^
-||114.110.97.97^
+#||114.110.97.97^
 ||1156dns.com^
 ||116.63.158.7^
 ||117.140.15.45^
@@ -6440,7 +6440,7 @@
 ||cdn.image-houzhuaxyz.com^
 ||cdn.image-wojiongxyz.com^
 ||cdn.jice.io^
-||cdn.jsdelivr.net^
+#||cdn.jsdelivr.net^
 ||cdn.livechat-files.com^
 ||cdn.mobrtb.com^
 ||cdn.mockuai.com^
@@ -6966,7 +6966,7 @@
 ||file3.ih5.cn^
 ||files.huizecdn.com^
 ||files.quandashi.com^
-||filters.adtidy.org^
+#||filters.adtidy.org^
 ||financeft.cfp.qq.com^
 ||fio3s8d.kfzcyxc.com^
 ||firebase-settings.crashlytics.com^
@@ -8216,7 +8216,7 @@
 ||mt0348134492.evpfiiq.cn^
 ||mt1-s-gate.locojoy.com^
 ||mt2034494569.plczj.cn^
-||mtalk.google.com^
+#||mtalk.google.com^
 ||mtg.7477.com^
 ||mtpic.mcszr.com^
 ||mtrace.qq.com^
@@ -8504,7 +8504,7 @@
 ||pcauto.com.cn^
 ||pcvzpj.xyz^
 ||pd.ads.cn.miaozhen.com^
-||pddpic.com^
+#||pddpic.com^
 ||pds-demo.oss-cn-hangzhou.aliyuncs.com^
 ||pe.3.cn^
 ||pe06.cn^
@@ -8867,7 +8867,7 @@
 ||sat0.net^
 ||saveu5-normal-lf.zijieapi.com^
 ||saveu5-normal-lq.zijieapi.com^
-||sb.adtidy.org^
+#||sb.adtidy.org^
 ||sbb.bbb.byjykj.xyz^
 ||sbb.bbb.grth.xyz^
 ||sbb.bbb.leibeiyipei.xyz^
@@ -10247,4 +10247,4 @@
 ||zycmss.cn^
 ||zysdk.locojoy.com^
 ||zz.jjawa.com^
-||zzg64.com^
+#||zzg64.com^
